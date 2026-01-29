@@ -8577,3 +8577,6 @@ LogConfig: Set CVar [[r.Nanite.Streaming.ReservedResources:1]]
 [2026.01.29-18.06.11:479][800]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2026.01.29-18.06.11:479][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.01.29-18.06.11:576][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.29-18.09.12:156][390]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 342.775726
+[2026.01.29-18.09.13:158][393]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.29-18.09.13:158][393]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 343.444153, Update Interval: 321.561340
